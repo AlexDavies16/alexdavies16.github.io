@@ -1,11 +1,3 @@
-### ---
-
-### layout: page
-
-### title: About
-
-### permalink: /about/
-
 
 
 ### About Me!
@@ -13,7 +5,7 @@
 *Howdy!* My name is Alex and I'm currently an English masters student at Northeastern University.
 My DH Project/MA Thesis is focused on *mushrooms*, or how we describe  these objects and come to understand them through different forms of writing.
 
-### More Information
+
 
 I **love** eating these mushrooms too. It can't always be about serious academic endeavors.
 
