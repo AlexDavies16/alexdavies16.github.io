@@ -1,0 +1,7 @@
+---
+layout: post
+title: " {an idea of} Mushroom Text Analysis"
+---
+This is a really large overview of all of my categories combined through Voyant.
+Here's the summary:
+<iframe style='width: 100%; height: 600px; border: none;' src='https://voyant-tools.org/tool/Summary/?view=Summary&limit=59&corpus=e7f0e5f7d39c332d4fce2706f8f58dc5'></iframe>
