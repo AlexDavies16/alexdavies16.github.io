@@ -1,8 +1,8 @@
+yaml
 ---
 layout: post
-title: " {an idea of} Mushroom Text Analysis"
+title: "{an idea of} Mushroom Text Analysis"
 ---
-
 This is a really large overview of all of my categories combined through Voyant.
 
 Here's the summary:
