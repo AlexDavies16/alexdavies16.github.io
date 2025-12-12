@@ -1,3 +1,4 @@
+About Me!
 
 *Howdy!* My name is Alex and I'm currently an English masters student at Northeastern University.
 My DH Project/MA Thesis is focused on *mushrooms*, or how we describe  these objects and come to understand them through different forms of writing.
