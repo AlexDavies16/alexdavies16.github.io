@@ -1,11 +1,11 @@
-yaml
 ---
 layout: post
 title: "{an idea of} Mushroom Text Analysis"
 ---
+
 This is a really large overview of all of my categories combined through Voyant.
 
-Here's the summary:
+Here's my overall summary:
 <iframe style='width: 765px; height: 231px;' src='https://voyant-tools.org/tool/Summary/?corpus=4ce3255ddc0dfad7eb0f93d4c2148e3c'></iframe>
 
 Terms & what not
