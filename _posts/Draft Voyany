@@ -3,5 +3,10 @@ layout: post
 title: " {an idea of} Mushroom Text Analysis"
 ---
 This is a really large overview of all of my categories combined through Voyant.
+
 Here's the summary:
-<iframe style='width: 100%; height: 600px; border: none;' src='https://voyant-tools.org/tool/Summary/?view=Summary&limit=59&corpus=e7f0e5f7d39c332d4fce2706f8f58dc5'></iframe>
+<iframe style='width: 765px; height: 231px;' src='https://voyant-tools.org/tool/Summary/?corpus=e7f0e5f7d39c332d4fce2706f8f58dc5'></iframe>
+
+Colloates:
+<iframe style='width: 766px; height: 231px;' src='https://voyant-tools.org/tool/CorpusCollocates/?query=white&corpus=e7f0e5f7d39c332d4fce2706f8f58dc5'></iframe>
+
