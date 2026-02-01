@@ -32,16 +32,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkgreen;  
+  color: $darkgreen;
   font-weight: bold;
-  line-height: 1.7; 
-  margin: 1em 0 15px;    
-  padding: 0;          
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
 
   @include mobile {
     line-height: 1.4;
@@ -162,8 +157,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $sage;
-}
-
+  
   @include mobile {
     text-align: center;
   }
@@ -199,7 +193,6 @@ img {
 .site-name {
   margin: 0;
   color: $deepforrest;
-}
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
