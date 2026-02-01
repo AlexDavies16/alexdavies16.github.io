@@ -10,7 +10,7 @@ Here is a cytoscape look at things! A network of the distinctive words pulled fr
 <iframe src="{{ site.baseurl }}/web_session/index.html" style="width:100%; height:800px; border:2px solid #b8c9a3;"></iframe>
 
 This is an overall view of my data through Voyant. Please, play around with it!
-<iframe 
-  style='width: 100%; height: 800px; border: 2px solid #b8c9a3; border-radius: 8px;' 
+ <iframe 
+  style='width: 100%; height: 1000px; border: 2px solid #b8c9a3; border-radius: 8px;' 
   src='https://voyant-tools.org/?stopList=keywords-7f3907a49e152b9942a6f71fe7cc7e1c&corpus=6683772f1306acdb22d2809376dad53a'>
 </iframe>
