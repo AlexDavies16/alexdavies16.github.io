@@ -4,6 +4,7 @@ title: Methods & Information
 permalink: /Methodology/
 ---
 First, Why Mushrooms?
+
 Truth be told, I did not like mushrooms until about four years ago. 25 years of my life have been spent avoiding fungi. Shittakes? Horrible. Portobellos? Even worse. I could not make myself enjoy the taste. That was until I met my partner, who, when we first met, spoke so highly of mushrooms that I lied and said I also loved them. A silly thing to lie about, I know. Caught in this entanglement, I asked a knowledgeable fungi person what mushroom they would recommend to someone who didn’t like mushrooms at all. Their answer was the chanterelle. 
 
 I bought a pound and ran home to cook them. To my delight, the chanterelles tasted heavenly. An earthiness mixed with a deep buttery flavor. I decided I really liked mushrooms from then on out.  My partner & I have since foraged in the local forests and done plenty of reading on different native mushrooms. I’m happy I lied. 
