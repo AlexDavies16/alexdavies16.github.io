@@ -33,53 +33,96 @@ Issues with Collection:
 I did run into a few issues while pulling all of my data together. Within children’s literature, as some were more image based rather than text. Some books did not mention Death Caps or Fly Agaric mushrooms. Fairy Rings were either mentioned as the specific mushroom (Marasmius oreades) or referenced the shape of the mushroom formation, which required close attention in pulling passages. Chicken of the Woods and King Boletes were often referenced by other names, like Sulphur Shelf or Porcini. I had to pay strict attention to Morels, since many kinds fall under the mushroom’s umbrella, and held the chance to refer to a Gray or Black Morel instead of a yellow. Similar inconsistencies happened with collecting Chanterelle data. 
 
 Books Used in Project:
+
 Field Guides
+
 Mushrooms of the Northeastern United States and Eastern Canada
+
 Mushrooms of Northeast North America
+
 Mushrooms & Other Fungi of North America
+
 The Audubon Society field guide to North American Mushrooms
+
 Mushrooms (Falcon Field Guide Series)
+
 North American Mushrooms: A Field Guide To Edible And Inedible Fungi
+
 Peterson Field Guide To Mushrooms Of North America, First Edition
+
 Peterson Field Guide To Mushrooms Of North America, Second Edition
+
 Humanities
+
 Pop Science:
+
 Fungipedia
+
 Dr. Fungi’s Passport to the Mushroom Kingdom
+
 Radical Mycology
+
 Children’s Literature:
+
 Katya’s Books of Mushrooms
+
 Mushrooms & Fungi for Kids: An Introduction To Mycology
+
 Mushrooms & Company
+
 Fungarium
+
 Non-Fiction:
+
 Chanterelle Dreams, Amanita Nightmares
+
 Mushrooms : A Natural & Cultural History
 
+
 Book Titles Within Spreadsheet
+
 For ease of creating data, all of the books used in this project are given a unique ID to link them to a specific passage. Below is a guide for knowing which passage you’re looking at within the spreadsheet.
 CHAM- Chanterelle Dreams, Amanita Nightmares
+
 MNC- Mushrooms : A Natural & Cultural History
+
 DF- Dr. Fungi’s Passport to the Mushroom Kingdom
+
 RM- Radical Mycology
+
 MFK- Mushrooms & Fungi for Kids: An Introduction To Mycology
+
 FP- Fungipedia
+
 FG- Fungarium
+
 MC- Mushrooms & Company
+
 KB- Katya’s Books of Mushrooms
+
 AB- The Audubon Society field guide to North American Mushrooms
+
 BF- North American Mushrooms: A Field Guide To Edible And Inedible Fungi
+
 FM- Mushrooms (Falcon Field Guide Series)
+
 MUSEC- Mushrooms of the Northeastern United States and Eastern Canada
+
 MNNA -Mushrooms of Northeast North America
+
 MONA- Mushrooms & Other Fungi of North America
+
 PF- Peterson Field Guide To Mushrooms Of North America, First Edition
+
 PS -Peterson Field Guide To Mushrooms Of North America, Second Edition
 
 How were my passages selected?
-	For the most part, any passage that references a mushroom was selected for this project. From the smallest, “Some people use this fancy mushroom [turkey tails] as jewelry,” to a passage that is several sentences long. On some occasions, a passage is left out for redundancy, like if a book references chanterelles as the same shade of yellow on separate pages. Similarly, if a passage is not specifically focused on a mushroom but more of the genus or family at large, this was also not used for data collection. Passages from children’s literature are often one or two sentences long, where something from non-fiction might span 6 sentences.  Within longer passages, some are broken into separate sentences due to topic changes within the section. I wanted to have as many unique passages from a book as possible. However, the long passages from Fungepedia are never broken into smaller pieces, as this is more of an encyclopedia entry with a distinct topic at hand. Similarly, all field guides are kept fully intact, as all passages are mainly composed of fragments.
+
+For the most part, any passage that references a mushroom was selected for this project. From the smallest, “Some people use this fancy mushroom [turkey tails] as jewelry,” to a passage that is several sentences long. On some occasions, a passage is left out for redundancy, like if a book references chanterelles as the same shade of yellow on separate pages. Similarly, if a passage is not specifically focused on a mushroom but more of the genus or family at large, this was also not used for data collection. Passages from children’s literature are often one or two sentences long, where something from non-fiction might span 6 sentences.  Within longer passages, some are broken into separate sentences due to topic changes within the section. I wanted to have as many unique passages from a book as possible. However, the long passages from Fungepedia are never broken into smaller pieces, as this is more of an encyclopedia entry with a distinct topic at hand. Similarly, all field guides are kept fully intact, as all passages are mainly composed of fragments.
+
 How were these passages categorized?
-	This project uses four different types of books to pull passages. Below, I’ve described each type for users to understand the difference. With the exception of children’s literature, the other three categories technically fall under the large umbrella of “non-fiction”. For the purpose of the project, I want to keep things specific. For example, while non-fiction would generally cover field guides and pop science as a genre at large, I want to draw distinction through styling. I also attempt to ascribe a use-meaning to each book. What is someone getting out of picking up a field guide compared to a pop science book?  
+
+This project uses four different types of books to pull passages. Below, I’ve described each type for users to understand the difference. With the exception of children’s literature, the other three categories technically fall under the large umbrella of “non-fiction”. For the purpose of the project, I want to keep things specific. For example, while non-fiction would generally cover field guides and pop science as a genre at large, I want to draw distinction through styling. I also attempt to ascribe a use-meaning to each book. What is someone getting out of picking up a field guide compared to a pop science book?  
 As for thematic categories, these highlight the wide variety of ways that we know, see, and interact with mushrooms. By going through each book and specific passage, I’ve found relational patterns and unique methods of writing of these selected fungi. Ranging from culinary to folklore, to medicinal and historical, I’ve tried to be precise in extrapolating a specific topic. Included below is a list and explanation for each thematic category used in this project so far. These categories still feel partially insufficient to the scope of this project, and I want to get even finer detailed categories for this project over the next few months. Some of these categories are quite large, like “Identification” and “Growing Space”; I hope to perform an even closer analysis on these to tease out the variety of descriptions of color or relationships between mushrooms and nature.
 
 Categories:
@@ -131,13 +174,19 @@ Foraging: Passages that recognize the physical interaction between humans and mu
 Tools Used for this Project
 
 Voyant
-	I chose Voyant for its user-friendliness and easy access for any age user, as accessibility is the utmost importance to this project. I wanted a tool that would be able to perform basic analysis of my spreadsheet of data. I found the distinctive word section in the summary to be incredibly helpful for forming the base of this project. 
+
+I chose Voyant for its user-friendliness and easy access for any age user, as accessibility is the utmost importance to this project. I wanted a tool that would be able to perform basic analysis of my spreadsheet of data. I found the distinctive word section in the summary to be incredibly helpful for forming the base of this project. 
+
 Eventually, I will visualize a few other aspects of Voyant, but some of this data will be used for writing my thesis. All of the data gained from using Voyant can be found on my Github.  I want users to be able to play around with the tool on their own. 
 
 Cytoscape
-	The network for this project is formed through Cytoscape. This tool was chosen for its use in forming easy to interact with visualizations of my data.. After a few weeks of trial and error, I realized that the best use of this tool would come from post-Voyant analysis. Using the most unique distinct words from each category, I created a visualization of the data and a way to see any potential connections between categories. 
-	Users will be able to scroll through the Cytoscape visualization via my Github page. Right now, it is slightly difficult to navigate. I am working on trying to create a more friendly way to insert the network onto my page.
+
+The network for this project is formed through Cytoscape. This tool was chosen for its use in forming easy to interact with visualizations of my data.. After a few weeks of trial and error, I realized that the best use of this tool would come from post-Voyant analysis. Using the most unique distinct words from each category, I created a visualization of the data and a way to see any potential connections between categories. 
+
+Users will be able to scroll through the Cytoscape visualization via my Github page. Right now, it is slightly difficult to navigate. I am working on trying to create a more friendly way to insert the network onto my page.
 
 Github
-	This data is held on a Github repository. I want users to be able to see how I organized all of my passages, in hopes that others might make a similar project for mushrooms in their area or ones that are important to them. I also want this work to be easily accessible to potential future collaborators. 
-	The project itself is hosted on Github pages, where users will be able to access the visualization and analysis of these mushrooms. In the spirit of environmentalism, I want this project focused on the outdoors to have a minimal effect on the world around us. 
+
+This data is held on a Github repository. I want users to be able to see how I organized all of my passages, in hopes that others might make a similar project for mushrooms in their area or ones that are important to them. I also want this work to be easily accessible to potential future collaborators. 
+
+The project itself is hosted on Github pages, where users will be able to access the visualization and analysis of these mushrooms. In the spirit of environmentalism, I want this project focused on the outdoors to have a minimal effect on the world around us. 
