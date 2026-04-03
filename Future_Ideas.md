@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact/Survey
+title: Future Ideas
 permalink: /future_ideas/
 ---
 
