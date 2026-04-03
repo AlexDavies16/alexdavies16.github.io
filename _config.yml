@@ -9,7 +9,7 @@ name: Fungi Time!
 description: What is this project about? Mushrooms! Or, what are the different ways we as readers get to know these fungi. By comparing the scientific to the humanistic, we can see a wide variety of ways to understand what a mushroom is.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/little_mushroom.png
+avatar: /images/little_mushroom.png
 
 #
 # Flags below are optional
