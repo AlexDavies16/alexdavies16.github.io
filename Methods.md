@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methods & Information
-permalink: /Methodology/
+permalink: /Methods/
 ---
 First, Why Mushrooms?
 
