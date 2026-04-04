@@ -1,3 +1,5 @@
+## About Fungi Time
+
 ### First, Why Mushrooms?
 
 In recent years, mushrooms have gained some popularity within American culture. The reason for this uptick in interest can be attributed to several causes: promotion of medicinal mushrooms (both psychedelic and supplements), increase in foraging due to the pandemic, TV shows and movies where fungi play a particularly threatening roll (like *The Last of Us* or *Annihilation*), and advancements in science that allow for DNA examination of fungi. Once you notice them, mushrooms seem to be everywhere. But, then again, mushrooms have always existed within our visual and literary culture, just think of *Alice in Wonderland* or Super Mario Bros!  
