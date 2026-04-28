@@ -22,9 +22,12 @@ For children’s literature, I referenced the sites mentioned above, but mainly 
 #### Limitations
 
 I did run into a few issues while pulling all of my data together. Within children’s literature, as some were more image based rather than text. While some of the recommended children’s books were incredibly interesting and full of information, they did not specifically name the mushrooms used in this project. I sought out books that specifically named mushrooms to make sure that all information was accurate.
+
 Some books did not mention Death Caps or Fly Agaric mushrooms. Fairy Rings were either mentioned as the specific mushroom (Marasmius oreades) or referenced the shape of the mushroom formation, which required close attention in pulling passages. Chicken of the Woods and King Boletes were often referenced by other names, like Sulphur Shelf or Porcini. I had to pay strict attention to Morels, since many kinds fall under the mushroom’s umbrella, and held the chance to refer to a Gray or Black Morel instead of a yellow. Similar inconsistencies happened with collecting Chanterelle data. 
 
+
 ### Books Used in Project:
+
 
 #### Field Guides
 
@@ -45,6 +48,7 @@ Phillips, Roger. Mushrooms & Other Fungi of North America. Firefly Books, 2005.
 Telander, Todd. Mushrooms. Rowman & Littlefield, 2023.
 
 
+
 #### Popular Science/ Non-Fiction
 
 Marley, Greg. Chanterelle Dreams, Amanita Nightmares: The Love, Lore, and Mystique of Mushrooms. Chelsea Green Publishing, 2010.
@@ -58,6 +62,7 @@ Money, Nicholas P. Mushrooms: A Natural and Cultural History. Reaktion Books, Li
 Walker, Gordon. Dr. Fun Guy’s Passport to Kingdom Fungi: A Scientist’s Guide to the Wild and Wonderful World of Mushrooms, Molds, and More. Ten Speed Press, 2025.
 
 
+
 #### Children’s Literature:
 
 Arnold, Katya, and Sam Swope. Katya’s Book of Mushrooms. Macmillan, 1997.
@@ -67,6 +72,7 @@ Bonkoski, Ariel. Mushrooms & Fungi for Kids. Adventure Publications, 2025.
 Geert-Jan Roebers. Mushrooms and Company. Greystone Books Ltd, 2025.
 
 Scott, Katie, and Ester Gaya. Fungarium. London, Big Picture Press, 2020.
+
 
 
 #### Book Titles Within Spreadsheet
@@ -126,6 +132,7 @@ Field Guide: Book that focuses on scientific evidence and observation. Generally
 Pop Science: Book that includes aspects of scientific and cultural relevance of mushrooms. The structure includes similarities  to field guides or encyclopedias but also extends into personal experience. Will include scientific information, but the structure of the book relies on situating the mushroom in everyday life. Written in an inviting form, almost like storytelling. Use of this book is to get users interested in mushrooms without alienating newcomers.
 
 Children’s Literature: Book written mainly for kids, and the parents that are reading them aloud. Includes basic information about mushroom identification, like colors, shape, and fun facts. Science is explained in enough detail for a child between 5-10 to understand. Includes personal anecdotes. Generally avoids too much information on toxic mushrooms. Written to introduce children into topics of the natural world. 
+
 
 #### Mushroom Categories
 
