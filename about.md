@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 ## About Fungi Time
 
 ### First, Why Mushrooms?
