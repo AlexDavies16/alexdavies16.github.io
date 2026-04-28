@@ -7,14 +7,16 @@ permalink: /Methods/
 
 #### How were my mushrooms selected?
 
-In total, this project focuses on eight mushrooms: chanterelles, morels, king boletes, chicken-of-the-woods, fairy rings, fly agarics, death caps, and turkey tails. My main goal was finding mushrooms of interest that can be found in the Northeast.  I then took into consideration which mushrooms are popular to forage or avoid within the area. I also researched which mushrooms are popular within the cultural zeitgeist of the U.S. In-use common names were also a factor in deciding which mushrooms to choose, as this means there is some general recognition of a mushroom without knowing its taxonomic name. 
+The work for this project, and this paper, started by selecting eight mushrooms to center my argument around: chanterelle (Cantherelus cibarus), morel (Morchella esculenta), chicken of the woods (Laetiporus sulphureus), death cap (Amanita phalloides), fly agaric (Amanita muscaria), king bolete (Boletus edulis), fairy ring (Marasmius oreades), and turkey tail (Trametes versicolor). My main goal was finding mushrooms of interest that can be found in the Northeast. I then took into consideration which mushrooms are popular to forage or avoid within the area. Therefore, any forager or casual observer stands the chance of finding these fungi in their local ecosystem (if they know where to look!). I also researched which mushrooms are popular within the cultural zeitgeist of the U.S. All eight specimens are well known enough to acquire common names that are in current use. I can say “morel” and a reader would know exactly what I am talking about without needing a scientific name for clarification. These fungi are also all uniquely colored, shaped, and exhibit a variety of edibility, providing a diversity of descriptions to explore within this research. Furthermore, I selected these eight fungi because they are mushrooms that I am passionate about. 
 
 #### How were my source materials collected?
 
 My book selections are split into three parts: field guides and popular science/non fiction, and children’s literature. 
-Field guides were mainly selected on a regional basis. I live, study, and collect fungi in the Northeastern region of the US. This project is based on what can be found from the top tip of Maine, all the way down to New Jersey. Therefore, nearly all of my field guides focus on this specific area. I consulted a variety of mycological societies for the best guides to use. This included groups such as: Boston Mycological Society, Pioneer Valley Mycological Society (Plus their library guide!), Mycoguide, and the North American Mycological Association. Links are included for users to find further resources on fungi. 
+
+Field guides were selected on a regional basis. I live, study, and collect fungi in the Northeastern region of the US. This project is based on what can be found from the top tip of Maine, all the way down to New Jersey. Therefore, nearly all of my field guides focus on this specific area. I consulted a variety of mycological societies for the best guides to use. This included groups such as: Boston Mycological Society, Pioneer Valley Mycological Society (Plus their library guide!), Mycoguide, and the North American Mycological Association. Links are included for users to find further resources on fungi. 
 	
 Popular science books are based on popularity and the variety of mushrooms mentioned.  I first checked out what  books mycological/ nature societies recommended for reading outside of field guides. This included sites such as: The Cornell Small Farms Program (Cornell does a lot of mycological research), Mycoweb (archive of book reviews), and other mycology groups. After this, I looked at the r/mycology Reddit page to see what regular people recommended to others for reading. In the special case of Dr. Fun Guy’s Passport to the Mushroom Kingdom, I found this book through iNaturalist. Finally, I looked through what books could be found within the Minuteman Library System and local bookstores.
+
 For children’s literature, I referenced the sites mentioned above, but mainly focused on what was available through the Minuteman Library System. I will go into further detail why within my limitations section. 
 
 #### Limitations
@@ -165,11 +167,16 @@ Foraging: Passages that recognize the physical interaction between humans and mu
 #### Voyant
 
 I chose Voyant for its user-friendliness and easy access for any age user, as accessibility is the utmost importance to this project. I wanted a tool that would be able to perform basic analysis of my spreadsheet of data. I found the distinctive word section in the summary to be incredibly helpful for forming the base of this project. 
+
+Using this tool, I was able to see the unique words and phrases that stood out from passages focused on specific categories and mushrooms. For example, I could pull out the specific terms, like words relating to shape and “gill” form, and colors, a variety of yellows and oranges, used to describe a chanterelle for easier comparison between books. I could see all of the culinary words related to morels and chicken of the woods. It was easier to see all of the folklore names attached to fairy rings and fly agarics. These results allowed me to prepare an argument for marking the inconsistencies in writing between genres.
+
 Eventually, I will visualize a few other aspects of Voyant, but some of this data will be used for writing my thesis. All of the data gained from using Voyant can be found on my Github.  I want users to be able to play around with the tool on their own. 
 
 #### Cytoscape
 The network for this project is formed through Cytoscape. This tool was chosen for its use in forming easy to interact with visualizations of my data.. After a few weeks of trial and error, I realized that the best use of this tool would come from post-Voyant analysis. Using the most unique distinct words from each category, I created a visualization of the data and a way to see any potential connections between categories. 
-	
+
+ This network allowed me to see patterns within my data that seemed invisible while reading each of these texts. Through Cytoscape, I could see how certain mushrooms grouped together due to the unique words that describe them. This result helped me decide which mushrooms to pair together within categories to further examine within this paper. While certain mushrooms were expected to group together,like the fly agaric and death cap, I found that “opposite” mushrooms had more in common than I previously thought. A major example is the fly agaric and the chanterelle, who both have a heavy focus on their physical appearance. Similarly, the high use of cultural words found in fairy rings and turkey tails made them an ideal pair for writing about cultural significance. 
+
 Users will be able to scroll through the Cytoscape visualization via my Github page. Right now, it is slightly difficult to navigate. I am working on trying to create a more friendly way to insert the network onto my page.
 
 #### Github
